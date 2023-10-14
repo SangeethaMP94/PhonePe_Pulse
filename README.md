@@ -1,7 +1,7 @@
 # PhonePe_Pulse
 
 The goal of this project is to extract data from the Phonepe pulse Github repository, transform and clean the data, 
-insert it into a MySQL database, and create a live geo visualization dashboard using Streamlit and Plotly in Python. 
+insert it into a SQL database, and create a live geo visualization dashboard using Streamlit and Plotly in Python. 
 The dashboard will display the data in an interactive and visually appealing manner, with at least 10 different 
 dropdown options for users to select different facts and figures to display. The solution must be secure, efficient, 
 and user-friendly, providing valuable insights and information about the data in the Phonepe pulse Github repository.
